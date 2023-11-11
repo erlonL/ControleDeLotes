@@ -17,7 +17,7 @@ Esse repositório contém arquivos da atividade extra de Programação Orientada
   - [ ] Lotes reservados ou vendidos devem aparecer apenas na lista.
 - [ ] Lógica para aba de lotes -> Lotes adicionados como "Vendido" ou "Reservado", devem ser atribuídos uma data, cliente e vendedor
   - [ ] Quando forem adicionados um "Vendido" ou "Reservado", abrir pop-up com as opções para data, lista de clientes de lista de vendedores.
-- [ ] Lógica para aba de clientes -> NÃO adicionar clientes com informações inválidas (renda anual como string, profissão com númeo).
+- [ ] Lógica para aba de clientes -> NÃO adicionar clientes com informações inválidas (renda anual como string, profissão com número).
 - [ ] Lógica para aba de vendedores -> NÃO adicionar vendedores com informações inválidas (salário como string) .
 
 ## Mídia
